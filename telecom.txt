@@ -1,0 +1,22 @@
+telecom.csv
+---------------------
+Esse conjunto de dados contém registros das atividades de clientes de uma empresa de telefonia.
+O objetivo da empresa é identificar que fatores podem levar o cliente ao cancelamento do seu plano.
+
+Atributos:
+
+- n_mensagens_voz: qunatidade de mensagens de voz que o cliente recebe
+- minutos_manha: minutos utilizados em chamadas pela manhã
+- chamadas_manha: número de chamadas realizadas pela manhã
+- custo_manha: custo das chamadas realizadas pela manhã
+- minutos_tarde: minutos utilizados em chamadas pela tarde
+- chamadas_tarde: número de chamadas realizadas pela tarde
+- custo_tarde: custo das chamadas realizadas pela tarde
+- minutos_noite: minutos utilizados em chamadas pela noite
+- chamadas_noite: número de chamadas realizadas pela noite
+- custo_noite: custo das chamadas realizadas pela noite
+- minutos_internacional:  minutos utilizados em chamadas internacionais
+- chamadas_internacional: número de chamadas internacionais
+- custo_internacional: custo das chamadas internacionais
+- atendimento_cliente: quantidade de chamadas feitas pelo cliente para a central de atendimento ao cliente
+- cancelamento: indica se o cliente cancelou o plano (True) ou não (False)
